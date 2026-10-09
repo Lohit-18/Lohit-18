@@ -52,5 +52,5 @@ To develop strong practical cybersecurity skills and contribute to building secu
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/]
+* LinkedIn: https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/
 * GitHub: [Lohit-18](https://github.com/Lohit-18)
