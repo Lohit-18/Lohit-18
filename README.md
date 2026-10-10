@@ -1,135 +1,231 @@
-# Lohit Shanmugam
+<!-- ======================================================= -->
 
-### Computer Science Engineering Student | Cybersecurity | Security Research & Automation
+<!--                  PROFILE HEADER                         -->
 
-I am a Computer Science Engineering student developing practical skills in cybersecurity, network security, threat detection, and secure software development.
+<!-- ======================================================= -->
 
-My focus is on understanding how systems work, identifying security weaknesses, analysing suspicious activity, and building tools that help improve security.
+<div align="center">
 
-I use hands-on projects and security labs to strengthen my knowledge of networking, Linux, Python automation, intrusion detection, and emerging security challenges.
+# LOHIT SHANMUGAM
 
-**Current focus:** Network security · Threat detection · Python automation · Application security
+### `Computer Science Engineering` | `Cybersecurity` | `Security Engineering`
 
----
+**Building practical security skills through code, experimentation, and research.**
 
-## `whoami` — Technical Profile
+<br>
 
-* **Education:** B.E. Computer Science Engineering
-* **Primary language:** Python
-* **Security interests:** Network analysis, detection engineering, application security
-* **Working environment:** Linux, Git, GitHub
-* **Currently exploring:** SIEM, incident response, cloud security, and LLM application security
-* **Long-term goal:** Build a career in cybersecurity through practical engineering, security research, and continuous learning.
+<a href="https://github.com/Lohit-18">
+  <img src="https://img.shields.io/badge/GitHub-Lohit--18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
----
-
-## Technical Stack
-
-### Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-### Systems & Security
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Networking](https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge)
-![Python Automation](https://img.shields.io/badge/Security_Automation-306998?style=for-the-badge)
-
-*Technologies and security domains listed here represent my current working interests. Individual repositories document the tools and techniques actually used in each project.*
+</div>
 
 ---
 
-## Featured Security Projects
+## `01 / SYSTEM OVERVIEW`
 
-### 1. Chrono-DNS — DNS Security Analysis
+```text
+USER        : Lohit Shanmugam
+BACKGROUND  : Computer Science Engineering
+DOMAIN      : Cybersecurity
+INTERESTS   : Network Security | Detection Engineering
+              Application Security | AI Security
+LANGUAGE    : Python
+ENVIRONMENT : Linux | Git | GitHub
+OBJECTIVE   : Develop practical security engineering skills
+```
 
-**Focus:** DNS activity analysis and suspicious-domain detection.
+I am a Computer Science Engineering student building a foundation in cybersecurity, network analysis, threat detection, and secure software development.
 
-An exploration of DNS-related security monitoring, with an emphasis on identifying potentially suspicious domain activity and developing detection techniques.
+My approach is engineering-focused: understand the underlying system, investigate potential security weaknesses, implement solutions, and document the results.
 
-**Areas to explore:**
+I am particularly interested in security automation, intrusion detection, and the security challenges associated with modern AI applications.
 
-* DNS query and response analysis
+---
+
+## `02 / TECHNICAL DASHBOARD`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Security Domains
+
+![Network Security](https://img.shields.io/badge/Network_Security-0A84FF?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-00B894?style=flat-square)
+![Application Security](https://img.shields.io/badge/Application_Security-6C5CE7?style=flat-square)
+![AI Security](https://img.shields.io/badge/AI_Security-00A8A8?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-4B6584?style=flat-square)
+
+### Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Networking](https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=flat-square)
+![Automation](https://img.shields.io/badge/Security_Automation-306998?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=flat-square)
+
+### Currently Exploring
+
+![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-34495E?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-8E44AD?style=flat-square)
+![IAM](https://img.shields.io/badge/Identity_%26_Access-2C3E50?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+> **Technical transparency:** These badges represent areas of interest and technologies associated with my learning. Each project repository documents the technologies actually implemented and tested.
+
+---
+
+## `03 / PROJECT PORTFOLIO`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Chrono-DNS
+
+**DNS Security Analysis**
+
+Investigating DNS activity and techniques for identifying suspicious domain behaviour.
+
+**Technical focus**
+
+* DNS query analysis
+* Detection logic
 * Suspicious-domain indicators
-* Detection logic and validation
-* False-positive analysis
+* False-positive evaluation
 
-**Repository:** [Chrono-DNS](https://github.com/Lohit-18)
+[![View GitHub](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/Lohit-18)
 
-### 2. CAN-Guard — Automotive Network Intrusion Detection
+</td>
+<td width="50%" valign="top">
 
-**Focus:** Machine learning for automotive network security.
+### CAN-Guard
 
-A project exploring intrusion detection for Controller Area Network (CAN) traffic, investigating how data-driven methods can help distinguish normal communication patterns from potentially malicious activity.
+**Automotive Network Security**
 
-**Areas to explore:**
+Exploring machine-learning approaches to intrusion detection in Controller Area Network (CAN) traffic.
 
-* CAN traffic and message patterns
-* Feature engineering and data preprocessing
-* Intrusion detection model evaluation
-* False positives and detection limitations
+**Technical focus**
 
-**Repository:** [CAN-Guard](https://github.com/Lohit-18)
+* Traffic data processing
+* Feature engineering
+* Classification and evaluation
+* Detection performance
 
-### 3. Aegis — LLM Application Security
+[![View GitHub](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/Lohit-18)
 
-**Focus:** Prompt injection and security risks in LLM applications.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-A project exploring security controls for applications powered by large language models, with an emphasis on understanding prompt injection risks and evaluating defensive approaches.
+### Aegis
 
-**Areas to explore:**
+**LLM Application Security**
 
-* Prompt injection threat models
-* Input handling and trust boundaries
+Exploring prompt injection threats and defensive controls for applications powered by large language models.
+
+**Technical focus**
+
+* Threat modelling
+* Trust boundaries
+* Security test cases
 * Defensive control evaluation
-* Security testing and limitations
 
-**Repository:** [Aegis](https://github.com/Lohit-18)
+<div align="left">
 
-*Note: The links above point to my GitHub profile. Replace each one with its specific repository URL once the corresponding repository is available. Project descriptions should be updated to reflect the actual implementation and results.*
+[![View GitHub](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/Lohit-18)
 
----
+</div>
 
-## Current Learning Roadmap
+</td>
+</tr>
+</table>
 
-| Domain               | Focus Areas                                              |
-| -------------------- | -------------------------------------------------------- |
-| Networking           | TCP/IP, DNS, HTTP/HTTPS, packet analysis                 |
-| Operating Systems    | Linux fundamentals, permissions, processes, logs         |
-| Blue Team Security   | Security monitoring, detection logic, incident response  |
-| Python for Security  | Log parsing, automation, data processing                 |
-| Application Security | Authentication, input validation, common vulnerabilities |
-| Cloud Security       | IAM, access control, logging, secure configurations      |
-| AI Security          | Prompt injection, LLM threat models, defensive testing   |
+*Project descriptions should reflect the current implementation. Replace the profile links with each project's actual repository URL when available.*
 
 ---
 
-## Engineering Principles
+## `04 / GITHUB ANALYTICS`
 
-* **Understand before automating:** Learn the underlying protocol, system, or vulnerability before writing a tool.
-* **Measure detection quality:** Evaluate false positives, false negatives, and other relevant metrics.
-* **Document reproducibly:** Provide setup instructions, dependencies, sample data, and test procedures.
-* **Acknowledge limitations:** Explain what a project detects, what it misses, and where it may fail.
-* **Practise responsibly:** Conduct security testing only in authorised environments.
+<div align="center">
 
----
+<a href="https://github.com/Lohit-18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lohit-18&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics">
+</a>
 
-## GitHub Activity
+<a href="https://github.com/Lohit-18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohit-18&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages">
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohit-18\&show_icons=true\&hide_border=true\&rank_icon=github)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohit-18\&layout=compact\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Lohit-18&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 
----
-
-## Connect
-
-* **LinkedIn:** [Lohit Shanmugam](https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/)
-* **GitHub:** [Lohit-18](https://github.com/Lohit-18)
+</div>
 
 ---
 
-*Learning continuously. Building practically. Securing responsibly.*
+## `05 / ENGINEERING ROADMAP`
+
+| Domain               | Learning Objectives                                     |
+| -------------------- | ------------------------------------------------------- |
+| Networking           | TCP/IP, DNS, HTTP/HTTPS, packet analysis                |
+| Operating Systems    | Linux, permissions, processes, system logs              |
+| Blue Team            | Security monitoring, detection logic, incident response |
+| Python               | Log parsing, automation, data processing                |
+| Application Security | Authentication, input validation, vulnerability testing |
+| Cloud Security       | IAM, access control, security logging                   |
+| AI Security          | Prompt injection, threat models, defensive testing      |
+
+---
+
+## `06 / ENGINEERING PRINCIPLES`
+
+```text
+[01] Understand the system before attempting to secure it.
+[02] Automate repetitive tasks when automation is appropriate.
+[03] Test implementations against documented test cases.
+[04] Evaluate false positives, false negatives, and limitations.
+[05] Document setup instructions and reproducible experiments.
+[06] Perform security testing only in authorised environments.
+```
+
+---
+
+## `07 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Lohit-18">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<br><br>
+
+*Learn continuously. Build practically. Secure responsibly.*
+
+</div>
