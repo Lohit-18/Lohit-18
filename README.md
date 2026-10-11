@@ -1,39 +1,157 @@
-<!-- ======================================================= -->
-<!--                 PROFILE HEADER                          -->
-<!-- ======================================================= -->
-
 <div align="center">
 
-# LOHIT SHANMUGAM
+Lohit Shanmugam
 
-### `Computer Science Engineering` | `Detection Engineering` | `SOC Operations`
+Computer Science Engineering · Cybersecurity · Security Engineering
 
-**Building practical security skills through code, experimentation, and research.**
+Building and documenting practical security projects across network defense, detection engineering, and AI application security.
 
-<br>
-
-<a href="https://github.com/Lohit-18">
-  <img src="https://img.shields.io/badge/GitHub-Lohit--18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p>
+  <a href="https://github.com/Lohit-18">
+    <img src="https://img.shields.io/badge/GitHub-Lohit--18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 </div>
 
----
+About Me
 
-## `01 / SYSTEM OVERVIEW`
+I'm a Computer Science Engineering student developing practical skills in cybersecurity and secure software engineering. I enjoy exploring how systems behave, testing defensive ideas, and documenting what works—as well as the limitations.
 
-```text
-USER        : Lohit Shanmugam
-BACKGROUND  : Computer Science Engineering (B.E. CSE)
-CURRENT     : Preparing for Master of Cyber Security @ RMIT Melbourne
-DOMAIN      : Cybersecurity
-INTERESTS   : Threat Detection | SOC Engineering | Network Security 
-LANGUAGE    : Python | Bash | SQL
-ENVIRONMENT : Linux | PostgreSQL | Docker | Git
-OBJECTIVE   : Develop defensive security engineering skills & transition to SOC/Detection roles
+Current areas of interest
+
+Network security and intrusion detection
+
+Security automation and detection engineering
+
+Application and LLM security
+
+Python-based security tooling and analysis
+
+I aim to build projects that are understandable, testable, and reproducible, with clear setup instructions and honest reporting of results.
+
+Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lohit-18/Sentinel-Forge">SentinelForge</a></h3>
+      <p><strong>Security event pipeline and detection engineering</strong></p>
+      <p>A hands-on project focused on ingesting security events and developing a testable foundation for detection workflows.</p>
+      <p><sub>Focus: event ingestion · detection workflows · automated testing</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lohit-18/chrono-dns">Chrono-DNS</a></h3>
+      <p><strong>DNS security analysis</strong></p>
+      <p>Explores DNS activity analysis and ways to identify potentially suspicious domain behaviour.</p>
+      <p><sub>Focus: DNS data · detection logic · suspicious-domain indicators</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lohit-18/can-guard-final">CAN-Guard</a></h3>
+      <p><strong>Automotive network intrusion detection</strong></p>
+      <p>An experimental project exploring machine-learning approaches to detecting anomalous activity in simulated Controller Area Network (CAN) traffic.</p>
+      <p><sub>Focus: simulated CAN traffic · data processing · model evaluation</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lohit-18/aegis-ai-firewall">Aegis AI Firewall</a></h3>
+      <p><strong>LLM application security</strong></p>
+      <p>A security gateway prototype that examines prompts for potential prompt-injection threats and applies defensive checks.</p>
+      <p><sub>Focus: prompt injection · trust boundaries · input analysis · defensive controls</sub></p>
+    </td>
+  </tr>
+</table>
+
+Project descriptions are summaries, not claims of production readiness. See each repository for implementation details, setup instructions, tests, and current limitations.
+
+Technical Toolkit
+
+Languages and scripting
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+
+Tools and environment
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+
+Areas I'm developing
+<br>
+Network Security · Threat Detection · Application Security · AI Security · Security Automation · Incident Response
+
+Badges and topic labels indicate tools or areas connected to my learning and projects; they are not a certification or proficiency claim.
+
+GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lohit-18&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohit-18&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Lohit-18&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
+</div>
+
+These cards are generated by third-party services. Their availability and displayed metrics may vary.
+
+What I'm Working Toward
+
+Area
+
+Learning focus
+
+Networking
+
+TCP/IP, DNS, HTTP/HTTPS, and packet analysis
+
+Linux and operating systems
+
+Processes, permissions, system logs, and troubleshooting
+
+Detection engineering
+
+Event analysis, detection logic, and false-positive evaluation
+
+Python
+
+Log parsing, data processing, and security automation
+
+Application security
+
+Authentication, input validation, and security testing
+
+AI security
+
+Prompt injection, trust boundaries, and defensive testing
+
+Cloud security
+
+Identity and access management, logging, and access control
+
+Engineering Principles
+
+Understand the system before trying to secure it.
+
+Test ideas against documented cases and inspect the results.
+
+Consider false positives, false negatives, and implementation limits.
+
+Keep projects reproducible with clear documentation.
+
+Perform security testing only in systems and environments I'm authorised to test.
+
+<div align="center">
+
+Let's Connect
+
+<a href="https://github.com/Lohit-18">GitHub</a> ·
+<a href="https://www.linkedin.com/in/lohit-shanmugam-3b283b3b2/">LinkedIn</a>
+
+Learn continuously. Build practically. Secure responsibly.
+
+</div>
